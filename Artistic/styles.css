@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Modern;
+    src: url(leaves_and_ground.ttf);
+    font-size: larger;
+
+}
+
+@font-face {
+    font-family: Modern_Body;
+    src: url(Heaters.otf);
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Modern';
+  }
+  
+  p {
+    font-family: 'Modern_Body';
+    font-size: 20px;
+  }
+  

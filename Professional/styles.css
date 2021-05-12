@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Modern;
+    src: url(Magazine-Bold.ttf);
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Modern';
+  }
+  
+  p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+  }
+  
