@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Modern;
+    src: url(MagicOwl.otf);
+    font-size: larger;
+
+}
+
+@font-face {
+    font-family: Modern_Body;
+    src: url(Roboto-Light.ttf);
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Modern';
+  }
+  
+  p {
+    font-family: 'Modern_Body';
+    font-size: 20px;
+    color: white;
+  }
+  
+  body {
+    background-color: #Ffaaa7;
+  }
+
+  button {
+      background-color: #98DDCA;
+    font-family: Modern_Body;
+    text-align: center;
+  }
+
+  footer{
+      text-align: center;
+      color: white;
+  }
